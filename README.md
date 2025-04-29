@@ -7,6 +7,7 @@ A deep learning-powered web application that classifies food images into 11 cate
 ## 🚀 Live Demo
 
 Upload any food image and get real-time predictions with confidence scores!
+
 Check out the live demo here:  
 [**Food11 Image Classifier Web App**](https://food-classification-project.streamlit.app/)
 
@@ -60,3 +61,11 @@ The model uses **MobileNetV2**, a lightweight convolutional neural network archi
 
 ---
 
+## 👥 Contributors
+
+This project was developed collaboratively by:
+
+- [**Muralidhar Chowdary**](https://github.com/HighonKode-murli)  
+- [**Rajat Mishra**](https://github.com/rajat-mish)  
+
+---
